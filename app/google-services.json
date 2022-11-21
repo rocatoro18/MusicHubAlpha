@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "252926344288",
+    "project_id": "musichub-eeee2",
+    "storage_bucket": "musichub-eeee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252926344288:android:93738e9529ab1a5550d705",
+        "android_client_info": {
+          "package_name": "com.example.musichub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252926344288-p9a3878ppn7r10u57798fnt7duaenpjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.musichub",
+            "certificate_hash": "4b032285c2012c79a855b1d7ee5f3c9728b9142d"
+          }
+        },
+        {
+          "client_id": "252926344288-00020uhet6pa3kla3mj29v21t6q6f03o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNqF-Kt35G4JvNu7ZrfR60fjc_-ueTEmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252926344288-00020uhet6pa3kla3mj29v21t6q6f03o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
