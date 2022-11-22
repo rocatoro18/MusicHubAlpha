@@ -1,4 +1,4 @@
-package com.example.musichub
+package com.example.musichub.activities
 
 import android.content.Intent
 import android.os.Build
@@ -8,6 +8,8 @@ import android.os.Handler
 import android.view.WindowInsets
 import android.view.WindowManager
 import androidx.annotation.RequiresApi
+import com.example.musichub.R
+import kotlinx.android.synthetic.main.activity_splash.*
 
 class SplashActivity : AppCompatActivity() {
     @RequiresApi(Build.VERSION_CODES.R)
@@ -27,10 +29,15 @@ class SplashActivity : AppCompatActivity() {
         Handler().postDelayed(
             {
                 // Launch the main activity
-                startActivity(Intent(this@SplashActivity,MainActivity::class.java))
+                startActivity(Intent(this@SplashActivity, MainActivity::class.java))
                 finish() // Call this when your activity is done and should be closed
             },2500
         )
+
+        // Custom font text view
+        //val typeface: Typeface = Typeface.createFromAsset(assets,"Montserrat-Bold.ttf")
+        //tv_app_name.typeface = typeface
+
 
     }
 }
