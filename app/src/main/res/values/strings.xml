@@ -17,4 +17,14 @@
     <string name="btn_lbl_register">Registrarse</string>
     <string name="already_have_an_account">¿Ya tienes una cuenta?</string>
     <string name="login"><u>Iniciar Sesión</u></string>
+
+    <string name="err_msg_enter_first_name">Porfavor ingrese su nombre.</string>
+    <string name="err_msg_enter_last_name">Porfavor ingrese sus apellidos.</string>
+    <string name="err_msg_enter_email">Porfavor ingrese su email.</string>
+    <string name="err_msg_enter_password">Porfavor ingrese su contraseña.</string>
+    <string name="err_msg_enter_confirm_password">Porfavor confirme su contraseña.</string>
+    <string name="err_msg_password_and_confirm_password_mismatch">Su contraseña no coincide.</string>
+    <string name="err_msg_agree_terms_and_condition">Porfavor acepte los términos y condiciones.</string>
+    <string name="registery_successful">Gracias por registrarse.</string>
+    
 </resources>

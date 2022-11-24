@@ -10,4 +10,8 @@
     <color name="colorPrimary">#8d99ae</color>
     <color name="colorPrimaryDark">#2b2d42</color>
     <color name="colorAccent">#edf2f4</color>
+
+    <color name="colorSnackBarSuccess">#8BC34A</color>
+    <color name="colorSnackBarError">#F72400</color>
+
 </resources>
