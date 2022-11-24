@@ -26,5 +26,7 @@
     <string name="err_msg_password_and_confirm_password_mismatch">Su contraseña no coincide.</string>
     <string name="err_msg_agree_terms_and_condition">Porfavor acepte los términos y condiciones.</string>
     <string name="registery_successful">Gracias por registrarse.</string>
-    
+
+    <string name="please_wait">Por favor, Espere&#8230;</string>
+
 </resources>
