@@ -29,4 +29,10 @@
 
     <string name="please_wait">Por favor, Espere&#8230;</string>
 
+    <string name="title_forgot_password">¿Has olvidado tu contraseña?</string>
+    <string name="forgot_password_title_description">Ingresa tu email, enviaremos un email para restablecer tu contraseña</string>
+    <string name="btn_lbl_submit">Enviar</string>
+
+    <string name="email_sent_success">¡Email enviado con éxito para restablecer su contraseña!</string>
+
 </resources>
